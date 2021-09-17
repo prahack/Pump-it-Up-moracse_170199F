@@ -38,3 +38,7 @@ Handle some unusual 0 values by replacing mean or median.
 ## Model training
 
 * I used the `Catboost` model as the classification approach. I used 1000 iterations, 0.1 learning rate, depth 10 with the `MultiClass` loss function.
+
+## Submissioin
+
+![image (70)](https://user-images.githubusercontent.com/31022509/133833833-8522ab17-7721-4983-9f5c-150c1c7b2a37.png)
